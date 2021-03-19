@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Registration</string>
+    <string name="tab_text_2">Success</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Select a restaurant</string>
+    <string name="slide_2_desc">Browse the restaurant and order directly from the application</string>
+
+    <string name="slide_3_title">Choose your food</string>
+    <string name="slide_3_desc">Choose your favorite food and your order will be processed immediately</string>
+
+    <string name="slide_4_title">Deliver to your home</string>
+    <string name="slide_4_desc">Pick up delivery at your door and enjoy your food!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
