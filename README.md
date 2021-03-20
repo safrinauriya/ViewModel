@@ -24,7 +24,8 @@ Tanggung jawab ViewModel hanyalah mengelola data untuk UI. Itu tidak boleh menga
 Intro Slider ialah tampilan beberapa slide yang bisa di geser oleh user sebelum masuk ke menu utama pada sebuah aplikasi. 
 Splash screen adalah istilah yang diberikan pada layar pembuka setiap kali kita menjalankan sebuah aplikasi Android. Fungsi dari splash screen tersebut bermacam-macam, ada yang digunakan untuk load data, untuk menjalankan file konfigurasi, atau untuk proses suatu algoritma tertentu. Namun, ada juga splash screen yang tidak ada fungsinya sama sekali, khusus digunakan untuk tampilan awal saja. 
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/60589670/111824747-2e5d8280-8919-11eb-9344-f06621ef54e8.gif)
+## Demo Aplikasi
+![WhatsApp Video 2021-03-20 at 02 15 07](https://user-images.githubusercontent.com/60589670/111856578-44416680-895e-11eb-9dd8-43b51c142a52.gif)
 
 ## Intro Sliders
 ![Screenshot_20210320-081810_ViewModel](https://user-images.githubusercontent.com/60589670/111856327-7f429a80-895c-11eb-8455-046cd8fa3f70.jpg)
