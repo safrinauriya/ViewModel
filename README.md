@@ -25,3 +25,15 @@ Intro Slider ialah tampilan beberapa slide yang bisa di geser oleh user sebelum 
 Splash screen adalah istilah yang diberikan pada layar pembuka setiap kali kita menjalankan sebuah aplikasi Android. Fungsi dari splash screen tersebut bermacam-macam, ada yang digunakan untuk load data, untuk menjalankan file konfigurasi, atau untuk proses suatu algoritma tertentu. Namun, ada juga splash screen yang tidak ada fungsinya sama sekali, khusus digunakan untuk tampilan awal saja. 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/60589670/111824747-2e5d8280-8919-11eb-9344-f06621ef54e8.gif)
+
+## Intro Sliders
+![Screenshot_20210320-081810_ViewModel](https://user-images.githubusercontent.com/60589670/111856327-7f429a80-895c-11eb-8455-046cd8fa3f70.jpg)
+![Screenshot_20210320-081835_ViewModel](https://user-images.githubusercontent.com/60589670/111856325-7c47aa00-895c-11eb-8724-c187521b08fa.jpg)
+![Screenshot_20210320-081818_ViewModel](https://user-images.githubusercontent.com/60589670/111856328-8073c780-895c-11eb-8f64-58a833c087a7.jpg)
+![Screenshot_20210320-081826_ViewModel](https://user-images.githubusercontent.com/60589670/111856329-81a4f480-895c-11eb-936f-8c9a5a422b38.jpg)
+
+## Form Pengisian Data (Fragment1)
+![Screenshot_20210320-081941_ViewModel](https://user-images.githubusercontent.com/60589670/111856347-a8fbc180-895c-11eb-881c-e737e1c11222.jpg)
+
+## Form Tampilan Data (Fragment2)
+![Screenshot_20210320-081948_ViewModel](https://user-images.githubusercontent.com/60589670/111856345-a6996780-895c-11eb-9c7e-17325fc87921.jpg)
